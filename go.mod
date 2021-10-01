@@ -1,1 +1,1 @@
-module github.com/notedit/gstreamer-go
+module github.com/piec/gstreamer-go
